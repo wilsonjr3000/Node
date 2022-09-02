@@ -7,7 +7,7 @@
 
 // console.log(media)
 
-const notas = [10, 7, 8, 10]
+const notas = [10, 7, 8, 11]
 
 let media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length
 
